@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="vidcam-utama" size="1.000000 1.000000" />
+    <ImageTarget name="vidcam-outfit" size="1.000000 1.000000" />
+    <ImageTarget name="printer-utama" size="1.000000 0.999063" />
+    <ImageTarget name="printer-outfit" size="1.000000 1.000000" />
+    <ImageTarget name="pentab-utama" size="1.000000 1.000000" />
+    <ImageTarget name="pentab-outfit" size="1.000000 1.000000" />
+    <ImageTarget name="headphone-utama" size="1.000000 1.000938" />
+    <ImageTarget name="headphone-outfit" size="1.000000 1.000000" />
+    <ImageTarget name="cam-utama" size="1.000000 0.999063" />
+    <ImageTarget name="cam-outfit" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
